@@ -31,7 +31,7 @@ echo "
 #                                                  #
 ####################################################  "
 
-PS3= "Select Your Device: "
+PS3="Select Your Device: "
 
 select opt in  "Termux" "Linux" ; do
 case $opt in 
