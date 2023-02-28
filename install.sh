@@ -75,7 +75,7 @@ echo "
 #                                                  #
 ####################################################  "
 
-truecaller login
+truecallerjs login
 echo "Enter The Phone Numberto get info: "
 echo "(example:+91+9876543210)"
 read Number
