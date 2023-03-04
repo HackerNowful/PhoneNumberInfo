@@ -77,7 +77,7 @@ echo "
 
 truecallerjs login
 echo "Enter The Phone Numberto get info: "
-echo "(example:+91+9876543210)"
+echo "(example:+919876543210)"
 read Number
 truecallerjs -s $Number | tee  NumberInfo.txt
 
